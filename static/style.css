@@ -9,7 +9,7 @@
   }
 
 body {
-    background-color: #e6ebf0;
+    background-image: linear-gradient( #ffffff, #feef65);
     color: hwb(123 20% 18%);
     font-family: 'Roboto', sans-serif;
     max-width: 500px;
